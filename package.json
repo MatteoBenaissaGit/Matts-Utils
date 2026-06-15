@@ -1,0 +1,12 @@
+{
+  "name": "com.matteobenaissa.mattsutils",
+  "displayName": "Matt's Utils",
+  "version": "1.0.0",
+  "unity": "6000.4",
+  "description": "Various utils for game development",
+  "keywords": ["upm", "package"],
+  "author": {
+    "name": "Matteo Benaissa",
+    "url": "https://github.com/MatteoBenaissaGit"
+  }
+}

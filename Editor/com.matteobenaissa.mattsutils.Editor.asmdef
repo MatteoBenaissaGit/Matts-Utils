@@ -1,0 +1,18 @@
+{
+    "name": "com.matteobenaissa.mattsutils.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2ab23da3cebba66489837b9fe30ff239"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
