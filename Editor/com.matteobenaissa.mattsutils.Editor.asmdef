@@ -2,7 +2,7 @@
     "name": "com.matteobenaissa.mattsutils.Editor",
     "rootNamespace": "",
     "references": [
-        "GUID:2ab23da3cebba66489837b9fe30ff239"
+        "GUID:2f51845e326080c4abd8bba87a0d2aa7"
     ],
     "includePlatforms": [
         "Editor"

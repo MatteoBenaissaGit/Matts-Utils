@@ -7,8 +7,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- Colors methods to modify colors easilly
 - Mathematics methods to allow smooth convertion between angles and vectors
+
+## [1.0.1] - 2026-06-18
+
+### Added
+
+- MattUtilsArray partial class (handle array methods)
+- MattUtilsGraphic partial class (handle color & graphics methods)
+- MattUtilsLog partial class (handle logging methods)
+- MattUtilsMath partial class (handle mathematics methods)
+- MattUtilsText partial class (handle text methods such as italic, bold...)
+
+### Removed
+
+- Default MattUtils class
 
 ## [1.0.0] - 2026-06-15
 

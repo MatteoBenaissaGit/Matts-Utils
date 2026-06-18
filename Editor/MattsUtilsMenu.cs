@@ -8,7 +8,7 @@ namespace Unity.MattsUtils.Editor
         [MenuItem("Tools/Matt's Utils/Log")]
         public static void Log()
         {
-            MattsUtils.Log("Matt's Utils", "Thanks for using Matt's Utils!");
+            MattsUtils.Log("Matt's Utils", "Thanks for using Matt's Utils!".Color(MattsUtils.RandomColor()));
         }
     }
 }
